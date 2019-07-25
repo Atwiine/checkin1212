@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "607518322323",
+    "firebase_url": "https://checkin1212-39c3e.firebaseio.com",
+    "project_id": "checkin1212-39c3e",
+    "storage_bucket": "checkin1212-39c3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607518322323:android:cf18a493e7a31d8b",
+        "android_client_info": {
+          "package_name": "com.example.hesable.checkin1212"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607518322323-3tu99vbu5lq11g2q2p5ap30vp0doucqp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hesable.checkin1212",
+            "certificate_hash": "9a34414ce9faa47ac6b4c63f7b9273d7ff7d1a2b"
+          }
+        },
+        {
+          "client_id": "607518322323-s9962uau1gmpfasbum7b1o1vl4834av5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArBUCXqkiM6ppC6Drs6KAqCBuQtiKwz3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607518322323-s9962uau1gmpfasbum7b1o1vl4834av5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="mybackground">#1178f6</color>
+    <color name="btn_register">#1178f6</color>
+    <color name="btn_login">#F61111</color>
+    <color name="cancel">#85041B</color>
+    <color name="backlogo">#6689CF</color>
+    <color name="firsttext">#660A4BDF</color>
+    <color name="bluedark"> #2f333f</color>
+    <color name="bluelight"> #49acd5</color>
+    <color name="green">#45bc62</color>
+    <color name="orange">#eaad43</color>
+    <color name="white">#FFFFFF</color>
+    <color name="senga1">#393939</color>
+    <color name="senga2">#2f2f2f</color>
+    <color name="senga3">#52b7f8</color>
+    <color name="senga4">#2b2b2b</color>
+</resources>
